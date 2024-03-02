@@ -1,4 +1,4 @@
-# MAD (Mobile Application Development)
+# MAD 
 
 This application is devised in order to provide a solution for corporate employees , who are in search  of home like food during their lunch hours, without having to go somewhere physically, and the food would be delivered to thier offices on time. 
 This will save them a lot of time and unnecessary hassle to rush during the luch hours, which will in turn increase their productivity.
