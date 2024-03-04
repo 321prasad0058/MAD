@@ -9,7 +9,7 @@ The application development is done using Flutter Framework, Dart Programming La
 - Scheduling Orders
 - Nutritional Content Information
 - Multiple Mess Service & Cloud Kitchen Options
-- Doorstep Delivery 
+- Doorstep Delivery at fingertips 
 - User Friendly Interface
 
 The application will focus on updating as per industry trends and coming technologies
