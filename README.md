@@ -11,5 +11,6 @@ The application development is done using Flutter Framework, Dart Programming La
 - Multiple Mess Service & Cloud Kitchen Options
 - Doorstep Delivery at fingertips 
 - User Friendly Interface
+- Different logins for Vendors, Customers and Riders
 
 The application will focus on updating as per industry trends and coming technologies
