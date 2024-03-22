@@ -4,7 +4,7 @@ This application is devised in order to provide a solution for corporate employe
 This will save them a lot of time and unnecessary hassle to rush during the luch hours, which will in turn increase their productivity.
 The application development is done using Flutter Framework, Dart Programming Language, PayPal or Stripe as per convinience for payment interface, MYSQL for database and Laravel as Backend.
 
-# It would include various features , some of them are :
+# It would include various features , some of them are : - 
 - Live Order Delivery Tracking
 - Scheduling Orders
 - Nutritional Content Information
