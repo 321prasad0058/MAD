@@ -6,7 +6,7 @@ The application development is done using Flutter Framework, Dart Programming La
 
 # It would include various features , some of them are listed as follows : - 
 - Live Order Delivery Tracking
-- Scheduling Orders
+- Scheduling the Orders
 - Nutritional Content Information
 - Multiple Mess Service & Cloud Kitchen Options
 - Doorstep Delivery at fingertips 
