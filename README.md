@@ -13,4 +13,4 @@ The application development is done using Flutter Framework, Dart Programming La
 - User Friendly Interface
 - Different logins for Vendors, Customers and Riders
 
-The application will focus on updating as per industry trends and coming technologies
+The application will focus on pertaining to the industry trends and coming technologies
