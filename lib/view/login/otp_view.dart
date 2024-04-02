@@ -3,6 +3,8 @@ import 'package:food_delivery/common/color_extension.dart';
 import 'package:food_delivery/common_widgets/round_button.dart';
 import 'package:otp_pin_field/otp_pin_field.dart';
 
+/// OTP View Page for account verification
+
 class OTP_View extends StatefulWidget {
   const OTP_View({Key? key});
 
@@ -28,7 +30,7 @@ class _OTP_ViewState extends State<OTP_View> {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: TColor.primaryText,
-                  fontSize: 30,
+                  fontSize: 31,
                   fontWeight: FontWeight.w800,
                 ),
               ),
